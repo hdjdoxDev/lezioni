@@ -10,7 +10,10 @@ Games:
  - [ ] Wist
     - [x] Offline
     - [ ] Online
-- [ ] Briscola (2, 3, 4, 5 players)
+- [ ] Farting dogs (standard, variants)
+    - [ ] Offline
+    - [ ] Online
+- [ ] Briscola (2, 3, 4, 5(auction 'a punti', 'a carta', 'pozzetto', 'giro morto') players)
     - [ ] Offline
     - [ ] Online
 - [ ] Poker polacco
@@ -29,3 +32,19 @@ Games:
     - [ ] Offline
     - [ ] Online
 
+Features:
+    - [x] Score Borad
+    - [ ] Save, Resume, Review Games
+    - [ ] Undo
+    - [ ] Computer Player (AI)
+    - [ ] P2P Multiplayer
+    - [ ] Online Multiplayer
+    - [ ] Rules
+    - [ ] Customizable Cards
+    - [ ] Customizable Table
+    - [ ] Custom Games (deck, table, turns, rules)
+    - [ ] Custom Game Generator (AI)
+    - [ ] Settings
+    - [ ] Chat
+    - [ ] User Profile
+    - [ ] User Statistics
